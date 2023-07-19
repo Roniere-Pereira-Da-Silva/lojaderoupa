@@ -1,3 +1,3 @@
 # lojaderoupa
--loja de roupas 
--moda feminina e masculina
+- loja de roupas 
+- moda feminina e masculina
